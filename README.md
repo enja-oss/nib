@@ -1,4 +1,4 @@
- # nib ドキュメント日本語訳
+# nib ドキュメント日本語訳
 
 部分的な翻訳済みドキュメントを集めていって、翻訳カバー率100%を目指します。 Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています。お気軽にどうぞ。 このREADME文書自体の内容についても、ご指摘・ご提案があれば随時お知らせください。
 
@@ -49,7 +49,7 @@ en.ja-ossプロジェクトでは現在管理者を募集しています。
 ##管理者
 
 - [@mitsuruog](https://github.com/mitsuruog) (管理者)
-- [@@maepon](https://github.com/maepon ) (管理者)
+- [@maepon](https://github.com/maepon) (管理者)
 - [@myakura](https://github.com/myakura) (監訳)
 
 ##参照先
