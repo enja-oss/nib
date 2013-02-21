@@ -1,9 +1,14 @@
-## Gradients
+## グラデーション
 
 Nib's gradient support is by far the largest feature it provides, 
 not only is the syntax extremely similar to what you would normally write, 
 it's more forgiving, expands to vendor equivalents, 
 and can even produce a PNG for older browsers with [node-canvas](http://github.com/learnboost/node-canvas).
+
+nibのグラデーションサポート機能は、nibが提供する機能の中でも最も特徴的な機能です。
+それはあなたが普段書くCSS構文と非常に似通っているということだけに留まらず、
+ベンダーへの対応、さらに[node-canvas](http://github.com/learnboost/node-canvas)を使用して、
+古いブラウザ向けにPNGを生成することまでも気前良く提供します。
 
 ````
 body {
@@ -11,7 +16,7 @@ body {
 }
 ````
 
-yields:
+結果:
 
 ````
 body {
@@ -24,6 +29,8 @@ body {
 
 Any number of color stops may be provided:
 
+任意の数のcoler-stopを扱うことができます。
+
 ````
 body {
   background: linear-gradient(bottom left, white, red, blue, black);
@@ -31,6 +38,8 @@ body {
 ````
 
 Units may be placed before, or after the color:
+
+単位の場所は、色の前でも後ろでも良い。
 
 ````
 body {
