@@ -1,8 +1,5 @@
-Nib is a small and powerful library for [the Stylus CSS language](http://learnboost.github.com/stylus/), 
-providing robust cross-browser CSS3 mixins to make your life as a designer easier.
-
 Nibは[Stylus](http://learnboost.github.com/stylus/)のためのシンプルかつパワフルなライブラリです。
-クロスブラウザ対応するのための強力なCSSミックスインを提供し、あなたのデザイナーライフをより良いものとします。
+クロスブラウザ対応のための強力なCSSミックスインを提供し、あなたのデザイナーライフをより良いものとします。
 
 ````  
 body {
