@@ -1,15 +1,11 @@
 ## ポジションミックスイン
 
-The position mixins `absolute`, `fixed`, and `relative` provide a shorthand variant to what is otherwise three CSS properties. The syntax is as follows:
-
-`absolute`、 `fixed`、 `relative` ポジションミックスインは、それぞれに異なる3つのCSSプロパティへ展開される短縮記法を提供します。
+`absolute`、 `fixed`、 `relative` ポジションミックスインはそれぞれ、異なる3つののCSSプロパティへ展開される短縮記法を提供します。
 構文は次の通りです。
 
 ````
 fixed|absolute|relative: top|bottom [n] left|right [n]
 ````
-
-The following example will default to (0,0):
 
 次の例では、デフォルトの(0,0)が出力されます。
 
@@ -29,9 +25,7 @@ The following example will default to (0,0):
 }
 ````
 
-You may also specify the units:
-
-また、単位を指定することもできます。
+また、単位も指定することもできます。
 
 ````
 #back-to-top {
