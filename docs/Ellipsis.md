@@ -2,6 +2,9 @@
 
 The `overflow` property is augmented with a "ellipsis" value, expanding to what you see below.
 
+`overflow` のプロパティは"ellipsis"を引数に指定された場合、以下のように出力します。
+
+
 ```stylus
 .description {
   overflow: ellipsis;
@@ -9,6 +12,8 @@ The `overflow` property is augmented with a "ellipsis" value, expanding to what 
 ```
 
 yielding:
+
+結果:
 
 ```css
 button {
