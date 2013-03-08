@@ -1,7 +1,5 @@
 ## Ellipsis
 
-The `overflow` property is augmented with a "ellipsis" value, expanding to what you see below.
-
 `overflow` のプロパティは"ellipsis"を引数に指定された場合、以下のように出力します。
 
 
@@ -10,8 +8,6 @@ The `overflow` property is augmented with a "ellipsis" value, expanding to what 
   overflow: ellipsis;
 }
 ```
-
-yielding:
 
 結果:
 

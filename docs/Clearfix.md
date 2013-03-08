@@ -1,7 +1,5 @@
 ## Clearfix
 
-The clearfix mixin currently takes no arguments, so it may be called as shown below:
-
 Clearfixのミックスインは今のところ引数がありませんので、以下のように利用できます。
 
 ```stylus
@@ -9,8 +7,6 @@ Clearfixのミックスインは今のところ引数がありませんので、
   clearfix();
 }
 ```
-
-yielding:
 
 結果:
 
