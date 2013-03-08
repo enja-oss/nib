@@ -1,7 +1,5 @@
 ## Border radius
 
-Nib's `border-radius` supports both the regular syntax as well as augmenting it to make the value more expressive.
-
 Nibの `border-radius` は通常の構文に加えて、値をもっと分かりやすくする拡張構文もサポートしています。
 
 ```stylus
@@ -17,8 +15,6 @@ button {
   border-radius: bottom 10px;
 }
 ```
-
-yielding:
 
 結果:
 
