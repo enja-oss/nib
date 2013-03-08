@@ -34,7 +34,7 @@ _.styl_ ファイルからnibを利用するには、 **@import** でnibもし�
 @import 'nib/buttons'
 ````
 
-stylusソースに手入力でnibを **@import** する方法だけではなく、JavaScript APIを使いインポートするという方法もあります。
+stylusソースに手入力でnibを **@import** する方法だけではなく、JavaScript APIを使いインポートするという楽な方法もあります。
 
 ````
 return stylus(str)
