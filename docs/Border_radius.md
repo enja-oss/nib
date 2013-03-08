@@ -2,7 +2,7 @@
 
 Nib's `border-radius` supports both the regular syntax as well as augmenting it to make the value more expressive.
 
-Nibの `border-radius` は通常の記法と同様に、値をもっとわかりやすできる追加記法にも対応しています。
+Nibの `border-radius` は通常の構文に加えて、値をもっと分かりやすくする拡張構文もサポートしています。
 
 ```stylus
 button {
