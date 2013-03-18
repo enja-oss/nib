@@ -2,6 +2,8 @@
 
 The following properties follow vendor expansion much like `border-radius`, however without augmentation, as well as some aliases such as `whitespace` instead of `white-space`.
 
+下記のプロパティは、引数がなくてもベンダーの独自実装を補完する`border-radius`のようなプロパティと同様に、`whitespace`が`white-space`として置き換わるようなエイリアスで補完します。
+
 - no-wrap == nowrap
 - whitespace == white-space
 - box-shadow
@@ -42,4 +44,3 @@ The following properties follow vendor expansion much like `border-radius`, howe
 - border-image
 - hyphens
 - appearance
-- 
